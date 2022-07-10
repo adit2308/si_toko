@@ -1,0 +1,19 @@
+Owner:
+user: owner
+pas: owner
+
+Admin:
+user: admin
+pas: admin
+
+Informasi:
+- Support PHP 5.6 sampai 7
+- Error pada laporan jika di php 7
+- Tanpa masalah jika di php 7 kebawah
+
+Sistem Informasi Akuntansi Bengkel:
+- Codeigniter 
+- MySQL
+- Jquery 
+- HTML 5
+- CSS
